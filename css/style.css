@@ -1,0 +1,47 @@
+.body{
+    background-image: url(/images/jeremy-thomas-4dpAqfTbvKA-unsplash.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100%;
+   
+}
+
+
+.footerstyle{
+width: 100%;
+height: 115px;
+background-color: black;
+bottom: 0;
+text-align: center;
+position: absolute;
+}
+
+
+
+
+
+.aboutheader{
+    color: white;
+    text-align: center;
+    font-family: 'Shadows Into Light', cursive;
+
+}
+.aboutme{
+    color: white;
+    font-family: 'Shadows Into Light', cursive;
+}
+.jumbotron{
+    font-family: 'Dancing Script', cursive;
+font-family: 'Oswald', sans-serif;
+}
+
+
+
+    
+
+   
+    
+
+
+
